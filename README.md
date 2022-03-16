@@ -14,7 +14,6 @@ Here is Iwo ! Thats my changes !
 Tylko po co ja to robie?
 
 
-
 This is Sunny.
 
 
