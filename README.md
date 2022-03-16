@@ -1,5 +1,3 @@
-
-
 Sergey Zharkov
 
 # room1
@@ -11,15 +9,21 @@ Here is Iwo ! Thats my changes !
      return "Kamil"
  }
 ```
-Tylko po co ja to robie?
-
 
 This is Sunny.
 
+Tylko po co ja to robie?
+
+This is Sunny.
 
 ## Alwaki
 
-
 This is my name
 
-Here is my chan
+Here is my change
+
+Here is Iwo again
+
+This is a change from slavy
+
+IWO NEW CHANGE
