@@ -21,7 +21,7 @@ This is Sunny.
 
 ## Alwaki
 
-This is my name
+That is my name
 
 Here is my change
 
