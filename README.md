@@ -21,13 +21,13 @@ This is Sunny.
 
 ## Alwaki
 
-This is my name
+That is my name
 
 Here is my change
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-Here is Iwo again
+Here is Iwo againBanananaanana
 >>>>>>> 642744e18936c576663fddb1547a8965e99cfe6e
 
 
@@ -50,4 +50,9 @@ This is a change from slavy
 IWO NEW CHANGE
 >>>>>>> 278bea49545d22ca56af9280ba8bba589f66f202
 #hhhhh
+<<<<<<< HEAD
 ##changes changes##
+=======
+>>>>>>> 9dfd53499024710f60f6f20c1b518619fa578d17
+
+'more nw changes more new change'
