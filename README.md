@@ -3,23 +3,27 @@
 
 =======
 
-
 Here is Iwo ! Thats my changes !
+
 ```javascript
  if (i know what to do in this excercise) {
      return "Kamil"
  }
 ```
-<<<<<<< HEAD
->>>>>>> 866739e8d5fb63ce25c0b04892316af96c5e6c15
 
 
+
+This is Sunny.
+
+
+
+
+
+This is my name
 
 Here is my change
-=======
----
->>>>>>> b456814991ea47cde2194fe3a252f3e2ef14d3ff
 
+<<<<<<< HEAD
 Here is Iwo again
 >>>>>>> 642744e18936c576663fddb1547a8965e99cfe6e
 
@@ -30,3 +34,8 @@ Here is Iwo again
 
 
 ## Denis McArdle
+=======
+
+Here is Iwo again
+
+>>>>>>> 80b42da81bde5b240743f9dce2883a20930dbdc7
