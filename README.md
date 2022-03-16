@@ -1,11 +1,8 @@
 Sergey Zharkov
 
 # room1
-<<<<<<< HEAD
 
-=======
-
-Here is Iwo ! Thats my changes !
+There is Iwo ! Thats my changes !
 
 ```javascript
  if (i know what to do in this excercise) {
@@ -25,34 +22,19 @@ That is my name
 
 Here is my change
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 Here is Iwo againBanananaanana
->>>>>>> 642744e18936c576663fddb1547a8965e99cfe6e
-
-
-
-
-
-
 
 ## Denis McArdle
-=======
-=======
+
 Here is Iwo again
->>>>>>> 278bea49545d22ca56af9280ba8bba589f66f202
 
 This is a change from slavy
 
-<<<<<<< HEAD
->>>>>>> 80b42da81bde5b240743f9dce2883a20930dbdc7
-=======
 IWO NEW CHANGE
+<<<<<<< HEAD
 >>>>>>> 278bea49545d22ca56af9280ba8bba589f66f202
 #hhhhh
-<<<<<<< HEAD
-##changes changes##
-=======
->>>>>>> 9dfd53499024710f60f6f20c1b518619fa578d17
 
 'more nw changes more new change'
+=======
+>>>>>>> ee30993ca3fe8b3a4c14f0fa6866ff163ccfa37c
